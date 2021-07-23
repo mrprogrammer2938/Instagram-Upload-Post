@@ -14,6 +14,11 @@ main() {
   chmod +x run.py
   sleep 1
   clear
+  echo "
+░█░█░█▀█░█░░░█▀█░█▀█░█▀▄░█▀▀░█▀▄
+░█░█░█▀▀░█░░░█░█░█▀█░█░█░█▀▀░█▀▄
+░▀▀▀░▀░░░▀▀▀░▀▀▀░▀░▀░▀▀░░▀▀▀░▀░▀
+"
   echo "Installing..."
   sleep 2
   apt install python
